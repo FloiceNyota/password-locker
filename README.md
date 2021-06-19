@@ -79,7 +79,7 @@ View [live]()
 ### License
 This project is under:  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)  
-Copyright &copy; 2021 **[Nicholas Ngetich](https://github.com/FloiceNyota98)**
+Copyright &copy; 2021 **[FloiceNyota98](https://github.com/FloiceNyota98)**
 ### Questions?
-Twitter: **[@ngetichnichoh](https://twitter.com/FloiceNyota)**  
+Twitter: **[@FloiceNyota98](https://twitter.com/FloiceNyota)**  
 Email: **[floice.ndiiya@student.moringaschool.com](mailto:floice.ndiiya@student.moringaschool.com)**
