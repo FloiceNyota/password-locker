@@ -7,7 +7,7 @@ class User: # generates new instance of user
 
     def save_user(self):
 
-        User.user_list.append(self)    
+        User.user_list.append(self) #helps add new user   
 
 
 
