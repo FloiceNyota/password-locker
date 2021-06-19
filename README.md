@@ -81,5 +81,5 @@ This project is under:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)  
 Copyright &copy; 2021 **[FloiceNyota98](https://github.com/FloiceNyota98)**
 ### Questions?
-Twitter: **[@FloiceNyota98](https://twitter.com/FloiceNyota)**  
+Twitter: **[@FloiceNyota](https://twitter.com/FloiceNyota)**  
 Email: **[floice.ndiiya@student.moringaschool.com](mailto:floice.ndiiya@student.moringaschool.com)**
